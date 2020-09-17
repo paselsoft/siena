@@ -38,7 +38,6 @@ You won't be subscribed to Elive if you don't confirm your email.
 
 Hotmail / Live / Outlook / Msn sometimes doesn't receive emails from Elive unless you add no-reply@elivecd.org to your contacts lists. Use a better alternative like Gmail!
 
-
 Keep in mind that Elive only survives by donations. So if you are happy with Elive please consider a donation in the future!
 
 ### Support or Contact
