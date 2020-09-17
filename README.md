@@ -47,6 +47,10 @@ Inoltre l'art.8 co.10 DL 76/2020 ha stabilito che, in ogni caso in cui per la se
 
 `Ctrl+T`
 
+Picture of Duck:
+
+![Duck](http://i.stack.imgur.com/ukC2U.jpg)
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
