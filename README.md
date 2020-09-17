@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Benvenuto alle Pagine GitHub
 
 You can use the [editor on GitHub](https://github.com/paselsoft/siena/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
