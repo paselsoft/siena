@@ -50,6 +50,8 @@ Inoltre l'art.8 co.10 DL 76/2020 ha stabilito che, in ogni caso in cui per la se
 Immagine del Logo di Stato
 ![Stemma Repubblica](stemma-della-repubblica-italiana.png)
 
+![Markdown Plus](https://mdp.tylingsoft.com/icon.png)
+
 ![Logo_Stato](Logo_Stato.jpg)
 
 ### Support or Contact
