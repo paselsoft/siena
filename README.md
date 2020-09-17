@@ -48,6 +48,7 @@ Inoltre l'art.8 co.10 DL 76/2020 ha stabilito che, in ogni caso in cui per la se
 `Ctrl+T`
 
 Immagine del Logo di Stato
+![Stemma Repubblica](https://github.com/paselsoft/siena/blob/master/stemma-della-repubblica-italiana.png)
 
 ![Logo_Stato](https://github.com/paselsoft/siena/blob/master/Logo_Stato.jpg)
 
