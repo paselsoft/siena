@@ -32,6 +32,15 @@ Per maggiori dettagli guarda [GitHub Flavored Markdown](https://guides.github.co
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paselsoft/siena/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+### Elive 3.0.6 Stable
+We have sent you a confirmation email, check your spam folder and mark the email as important to avoid delivery failures.
+You won't be subscribed to Elive if you don't confirm your email.
+
+Hotmail / Live / Outlook / Msn sometimes doesn't receive emails from Elive unless you add no-reply@elivecd.org to your contacts lists. Use a better alternative like Gmail!
+
+
+Keep in mind that Elive only survives by donations. So if you are happy with Elive please consider a donation in the future!
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
