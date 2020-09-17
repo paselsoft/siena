@@ -53,8 +53,6 @@ Picture of Duck:
 
 Immagine del Logo di Stato
 
-![Logo_Stato](C:\Users\selvaggini.p\github\siena\Logo_Stato.jpg)
-
 ![Logo_Stato](https://github.com/paselsoft/siena/blob/master/Logo_Stato.jpg)
 
 ### Support or Contact
