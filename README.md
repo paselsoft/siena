@@ -51,6 +51,8 @@ Picture of Duck:
 
 ![Duck](http://i.stack.imgur.com/ukC2U.jpg)
 
+Immagine del Logo di Stato
+![Logo_Stato](C:\Users\selvaggini.p\github\siena\Logo_Stato.jpg)
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
