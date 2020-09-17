@@ -47,10 +47,6 @@ Inoltre l'art.8 co.10 DL 76/2020 ha stabilito che, in ogni caso in cui per la se
 
 `Ctrl+T`
 
-Picture of Duck:
-
-![Duck](http://i.stack.imgur.com/ukC2U.jpg)
-
 Immagine del Logo di Stato
 
 ![Logo_Stato](https://github.com/paselsoft/siena/blob/master/Logo_Stato.jpg)
