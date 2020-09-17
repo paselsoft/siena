@@ -50,7 +50,7 @@ Inoltre l'art.8 co.10 DL 76/2020 ha stabilito che, in ogni caso in cui per la se
 Immagine del Logo di Stato
 ![Stemma Repubblica](stemma-della-repubblica-italiana.png)
 
-![Logo_Stato](https://github.com/paselsoft/siena/blob/master/Logo_Stato.jpg)
+![Logo_Stato](Logo_Stato.jpg)
 
 ### Support or Contact
 
