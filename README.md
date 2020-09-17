@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 We have sent you a confirmation email, check your spam folder and mark the email as important to avoid delivery failures.
 You won't be subscribed to Elive if you don't confirm your email.
 
-Hotmail / Live / Outlook / Msn sometimes doesn't receive emails from Elive unless you add no-reply@elivecd.org to your contacts lists. Use a better alternative like Gmail!
+**Hotmail / Live / Outlook / Msn** sometimes doesn't receive emails from Elive unless you add no-reply@elivecd.org to your contacts lists. Use a better alternative like Gmail!
 
 Keep in mind that Elive only survives by donations. So if you are happy with Elive please consider a donation in the future!
 
