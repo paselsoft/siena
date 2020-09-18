@@ -29,7 +29,7 @@ Syntax highlighted code block
 ```
 #### Acquisto cancelleria, toner e nastri - Anno 2020 - Myo SpA
 
-[x] Nota prot. n. 208995 del 16/09/2020 - Trattativa Diretta per l'acquisto di materiale di cancelleria, toner e nastri
+[x] Nota prot. n. 208995 del 16/09/2020 - Comunicazione per l'acquisto di materiale di cancelleria
 [x] Nota prot. n. 210061 del 17/09/2020 - Comunicazione spesa per l'acquisto di cancelleria
 [x] Nota prot. n. 1946 del 16/09/2020 - Determina a contrarre per l'acquisto di cancelleria
 [x] Trattativa Diretta sul MePA n. 1414940 del 18/09/2020
