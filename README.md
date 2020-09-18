@@ -50,6 +50,7 @@ In questi casi la richiesta del Durc deve essere effettuata secondo le ordinarie
 
 `Ctrl+T`
 
+
 ```mermaid
 sequenceDiagram
 participant Alice
