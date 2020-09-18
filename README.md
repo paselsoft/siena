@@ -26,6 +26,18 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+```
+[ ] Mercury
+[x] Venus
+[x] Earth (Orbit/Moon)
+[x] Mars
+[ ] Jupiter
+[ ] Saturn
+[x] Uranus
+[ ] Neptune
+[ ] Comet Haley
+```
+
 Per maggiori dettagli guarda [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
