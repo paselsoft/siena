@@ -27,15 +27,15 @@ Syntax highlighted code block
 ```
 
 ```
-[ ] Mercury
-[x] Venus
-[x] Earth (Orbit/Moon)
-[x] Mars
-[ ] Jupiter
-[ ] Saturn
-[x] Uranus
-[ ] Neptune
-[ ] Comet Haley
+#### Acquisto cancelleria, toner e nastri - Anno 2020 - Myo SpA
+
+[x] Nota prot. n. 208995 del 16/09/2020 - Trattativa Diretta per l'acquisto di materiale di cancelleria, toner e nastri
+[x] Nota prot. n. 210061 del 17/09/2020 - Comunicazione spesa per l'acquisto di cancelleria
+[x] Nota prot. n. 1946 del 16/09/2020 - Determina a contrarre per l'acquisto di cancelleria
+[x] Trattativa Diretta sul MePA n. 1414940 del 18/09/2020
+[x] DURC
+[ ] CIG Z332E5D4F9
+[ ] Tracciabilità dei flussi finanziari
 ```
 
 Per maggiori dettagli guarda [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
