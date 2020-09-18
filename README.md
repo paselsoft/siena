@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-```
+
 #### Acquisto cancelleria, toner e nastri - Anno 2020 - Myo SpA
 
 [x] Nota prot. n. 208995 del 16/09/2020 - Comunicazione per l'acquisto di materiale di cancelleria
@@ -36,7 +36,7 @@ Syntax highlighted code block
 [x] DURC
 [ ] CIG Z332E5D4F9
 [ ] Tracciabilità dei flussi finanziari
-```
+
 
 Per maggiori dettagli guarda [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
