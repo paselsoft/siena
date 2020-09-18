@@ -50,10 +50,19 @@ In questi casi la richiesta del Durc deve essere effettuata secondo le ordinarie
 
 `Ctrl+T`
 
-Immagine del Logo di Stato
-![Stemma Repubblica](https://raw.githubusercontent.com/paselsoft/siena/master/images/stemma-della-repubblica-italiana.png)
-
-![Logo_Stato](https://raw.githubusercontent.com/paselsoft/siena/master/images/Logo_Stato.jpg)
+```mermaid
+sequenceDiagram
+participant Alice
+participant Bob
+Alice->>John: Hello John, how are you?
+loop Healthcheck
+John->>John: Fight against hypochondria
+end
+Note right of John: Rational thoughts <br/>prevail!
+John-->>Alice: Great!
+John->>Bob: How about you?
+Bob-->>John: Jolly good!
+```
 
 ### Support or Contact
 
