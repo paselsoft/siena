@@ -33,7 +33,7 @@ Per maggiori dettagli guarda [GitHub Flavored Markdown](https://guides.github.co
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paselsoft/siena/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Elive 3.0.6 Stable
-We have sent you a confirmation email, check your spam folder and mark the email as important to avoid delivery failures.
+&ensp;&ensp;We have sent you a confirmation email, check your spam folder and mark the email as important to avoid delivery failures.
 You won't be subscribed to **Elive** if you don't confirm your email.
 
 **Hotmail / Live / Outlook / Msn** sometimes doesn't receive emails from Elive unless you add no-reply@elivecd.org to your contacts lists. Use a better alternative like Gmail!
@@ -42,9 +42,9 @@ Keep in mind that Elive only survives by donations. So if you are happy with **E
 
 ### Applicazione per la verifica della regolarità contributiva
 
-Si comunica che i Durc con scadenza compresa tra il 31/1/2020 e il 31/7/2020 conservano la loro validita' fino al 29/10/2020 a seguito della soppressione dell'art.81 co.1 DL 34/2020 operata dalla L. 77/2020.
+>Si comunica che i Durc con scadenza compresa tra il 31/1/2020 e il 31/7/2020 conservano la loro validita' fino al 29/10/2020 a seguito della soppressione dell'art.81 co.1 DL 34/2020 operata dalla L. 77/2020.
 
-Pertanto nella funzione Consultazione sono resi disponibili i Durc in corso di validita' e in mancanza quelli con scadenza di validita' prorogata al 29/10/2020.
+Pertanto nella funzione Consultazione sono resi disponibili i Durc in corso di validita' e in mancanza quelli con scadenza di validita' prorogata al 29/10/2020.  
 Inoltre l'art.8 co.10 DL 76/2020 ha stabilito che, in ogni caso in cui per la selezione del contraente o per la stipulazione del contratto relativamente a lavori, servizi o forniture previsti o disciplinati dallo stesso DL 76/2020 è richiesto il Durc, le SA/AP procedenti non possono utilizzare il Durc con validita' prorogata.
 
 In questi casi la richiesta del Durc deve essere effettuata secondo le ordinarie modalita' del DM 30/1/2015.
@@ -52,11 +52,11 @@ In questi casi la richiesta del Durc deve essere effettuata secondo le ordinarie
 `Ctrl+T`
 
 Immagine del Logo di Stato
-![Stemma Repubblica](images/stemma-della-repubblica-italiana.png)
+![Stemma Repubblica](https://raw.githubusercontent.com/paselsoft/siena/master/images/stemma-della-repubblica-italiana.png)
 
 ![Markdown Plus](https://mdp.tylingsoft.com/icon.png)
 
-![Logo_Stato](images/Logo_Stato.jpg)
+![Logo_Stato](https://raw.githubusercontent.com/paselsoft/siena/master/images/Logo_Stato.jpg)
 
 ### Support or Contact
 
