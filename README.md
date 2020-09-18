@@ -52,11 +52,11 @@ In questi casi la richiesta del Durc deve essere effettuata secondo le ordinarie
 `Ctrl+T`
 
 Immagine del Logo di Stato
-![Stemma Repubblica](stemma-della-repubblica-italiana.png)
+![Stemma Repubblica](images/stemma-della-repubblica-italiana.png)
 
 ![Markdown Plus](https://mdp.tylingsoft.com/icon.png)
 
-![Logo_Stato](Logo_Stato.jpg)
+![Logo_Stato](images/Logo_Stato.jpg)
 
 ### Support or Contact
 
