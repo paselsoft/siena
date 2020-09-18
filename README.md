@@ -53,8 +53,6 @@ In questi casi la richiesta del Durc deve essere effettuata secondo le ordinarie
 Immagine del Logo di Stato
 ![Stemma Repubblica](https://raw.githubusercontent.com/paselsoft/siena/master/images/stemma-della-repubblica-italiana.png)
 
-![Markdown Plus](https://mdp.tylingsoft.com/icon.png)
-
 ![Logo_Stato](https://raw.githubusercontent.com/paselsoft/siena/master/images/Logo_Stato.jpg)
 
 ### Support or Contact
