@@ -40,6 +40,35 @@ Syntax highlighted code block
 
 Per maggiori dettagli guarda [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Setting
+
+    {
+        taskList : true
+    }
+
+### Examples
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported;
+- [x] list syntax required (any unordered or ordered list supported);
+- [x] this is a complete item;
+- [ ] this is an incomplete item [test link](#);
+- [ ] this is an incomplete item;
+    - [ ] this is an incomplete item [test link](#);
+    - [ ] this is an incomplete item [test link](#);
+- [x] list syntax required (any unordered or ordered list supported);
+- [x] this is a complete item;
+- [ ] this is an incomplete item [test link](#);
+- [ ] this is an incomplete item;
+    - [ ] this is an incomplete item [test link](#);
+- [x] list syntax required (any unordered or ordered list supported);
+- [x] this is a complete item;
+- [ ] this is an incomplete item [test link](#);
+- [ ] this is an incomplete item;
+    - [ ] this is an incomplete item [test link](#);
+    - [ ] this is an incomplete item [test link](#);
+
+> Github Flavored Markdown task lists
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paselsoft/siena/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
