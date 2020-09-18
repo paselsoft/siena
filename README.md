@@ -35,7 +35,7 @@ Syntax highlighted code block
 - [x] Trattativa Diretta sul MePA n. 1414940 del 18/09/2020
 - [x] DURC
 - [ ] CIG Z332E5D4F9 :shoe:
-- [ ] Tracciabilità dei flussi finanziari
+- [ ] Tracciabilità dei flussi finanziari :eight:
 
 
 Per maggiori dettagli guarda [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
