@@ -34,7 +34,7 @@ Syntax highlighted code block
 - [x] Nota prot. n. 1946 del 16/09/2020 - Determina a contrarre per l'acquisto di cancelleria
 - [x] Trattativa Diretta sul MePA n. 1414940 del 18/09/2020
 - [x] DURC
-- [ ] CIG Z332E5D4F9
+- [ ] CIG Z332E5D4F9 :shoe:
 - [ ] Tracciabilità dei flussi finanziari
 
 
@@ -61,6 +61,8 @@ Inoltre l'art.8 co.10 DL 76/2020 ha stabilito che, in ogni caso in cui per la se
 In questi casi la richiesta del Durc deve essere effettuata secondo le ordinarie modalita' del DM 30/1/2015.
 
 `Ctrl+T`
+
+
 
 ### Support or Contact
 
